@@ -1,0 +1,10 @@
+.form-labels{
+    color: green !important;
+}
+
+.website-heading{
+    color: green;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,19 @@
+.homePage{
+    background-image: url("../../public/home_page.jpg");
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.auth-form{
+    height: 75vh;
+    width: 40vw;
+    background: #a5a3a39e;
+    top: 15vh;
+    position: absolute;
+    left: 9vw;
+    border-radius: 51%;
+    padding: 10%;
+    opacity: 0.6;
+}

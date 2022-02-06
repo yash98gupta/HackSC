@@ -1,0 +1,31 @@
+.nav{
+    background-color: greenyellow;
+    display: flex;
+    justify-content: space-between;
+    height: 6vh;
+}
+
+.logo-name{
+    font-size: 3vh;
+    margin-left: 5vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.nav-auth{
+    display: flex;
+    width: 5vw;
+}
+
+.nav-text-vertical-align{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.my-score{
+    font-style: italic;
+    color: coral;
+    font-size: xxx-large;
+}

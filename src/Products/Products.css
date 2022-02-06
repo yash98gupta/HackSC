@@ -1,0 +1,30 @@
+.product-card{
+    margin: 25px;
+}
+
+.points-label{
+    top: 8.5%;
+    z-index: 10;
+}
+
+.ui.green.label, .ui.green.labels .label{
+    left: 105% !important
+}
+
+.ui.teal.label, .ui.teal.labels .label{
+    left: 105% !important
+}
+
+.ui.olive.label, .ui.olive.labels .label{
+    left: 105% !important
+}
+
+.ui.red.label, .ui.red.labels .label{
+    left: 105% !important
+}
+
+.image-size{
+    height: 250px;
+    width: 250px;
+    padding: 10%;
+}
